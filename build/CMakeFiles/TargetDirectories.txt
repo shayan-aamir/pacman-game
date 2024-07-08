@@ -1,0 +1,3 @@
+/home/red/Documents/ProjectsDit/Pacman/build/CMakeFiles/Pacman.dir
+/home/red/Documents/ProjectsDit/Pacman/build/CMakeFiles/edit_cache.dir
+/home/red/Documents/ProjectsDit/Pacman/build/CMakeFiles/rebuild_cache.dir
